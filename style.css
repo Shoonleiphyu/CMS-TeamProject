@@ -5,7 +5,7 @@ Version: 1.0
 Author: CP-3402 A2 Group7
 */
 :root {
-    --blue: #007bff;
+    --blue: #014791;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #ee3577;
@@ -18,7 +18,7 @@ Author: CP-3402 A2 Group7
     --white: #fff;
     --gray: #767575;
     --gray-dark: #434242;
-    --primary: #6f42c1;
+    --primary: #3daecb;
     --secondary: #4f4f4f;
     --success: #28a745;
     --info: #17a2b8;
@@ -38,7 +38,7 @@ Author: CP-3402 A2 Group7
     --font-normal: 1em;
     --font-small: 0.8125rem;
     /* Sidebar */
-    --sidebar-width: 280px;
+    --sidebar-width: 200px;
     --content-max-width: 860px;
 }
 
@@ -217,7 +217,7 @@ h6 {
 }
 .gradient{
     background: rgb(43,43,43);
-    background: linear-gradient(151deg, var(--orange) 0%, var(--pink) 35%,var(--primary) 100%) !important;
+    background: linear-gradient(151deg, var(--white) 0%, var(--info) 35%,var(--primary) 100%) !important;
 }
 .content .post .title {
     font-size: 1.275rem
