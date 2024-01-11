@@ -158,8 +158,9 @@ h6 {
     text-decoration: none
 }
 
-.header .nav-item a {
+.header .nav-item .nav-link {
     color: rgba(255, 255, 255, 0.8)
+
 }
 
 .header .nav-item a:hover {
