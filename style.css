@@ -5,7 +5,7 @@ Version: 1.0
 Author: CP-3402 A2 Group7
 */
 :root {
-    --blue: #014791;
+    --blue: #4ea4ff;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #ee3577;
@@ -38,7 +38,7 @@ Author: CP-3402 A2 Group7
     --font-normal: 1em;
     --font-small: 0.8125rem;
     /* Sidebar */
-    --sidebar-width: 200px;
+    --sidebar-width: 300px;
     --content-max-width: 860px;
 }
 
