@@ -13,13 +13,14 @@ get_header();
 		}
 
 		?>
-
-	    </article>
-
-        <?php
+  
+  <?php
             the_post_pagination();
         ?>
 
+	    </article>
+
+      
 
 <?php
 get_footer();
