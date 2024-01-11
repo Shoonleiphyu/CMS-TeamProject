@@ -16,6 +16,11 @@ get_header();
 
 	    </article>
 
+        <?php
+            the_post_pagination();
+        ?>
+
+
 <?php
 get_footer();
 ?>
