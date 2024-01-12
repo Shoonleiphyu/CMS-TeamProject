@@ -1,11 +1,12 @@
 <footer class="footer text-center gradient">
-		   
-    <p>&copy; <span id="copyright-year">2024</span> <span id="site-title">EliteDrive</span> | Powered by <span id="powered-by">MaiTheme</span></p>
- 
-           <?php
+		<br>   
+         <?php
 				dynamic_sidebar('footer-1');
 			?>
 
+    <p>&copy; <span id="copyright-year">2024</span> <span id="site-title">MaiTheme</span> | Powered by <span id="powered-by">ELITEDRIVE</span></p>
+ <br>
+         
        </footer>
    
    </div>
