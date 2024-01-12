@@ -31,7 +31,7 @@
 			<span class="navbar-toggler-icon"></span>
 			</button>
 
-			<div id="navigation" class="collapse navbar-collapse flex-column" >
+			<div id="navigation" class="collapse navbar-collapse flex-column text-sm-center" >
 				<?php
 			 if(function_exists('the_custom_logo')){
 				$custom_logo_id = get_theme_mod('custom_logo');

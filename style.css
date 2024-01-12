@@ -147,6 +147,7 @@ h6 {
 }
 
 .header .nav-item {
+    margin-top: .25rem;
     font-weight: bold
 }
 
@@ -164,7 +165,7 @@ h6 {
 }
 
 .header .nav-item a:hover {
-    text-decoration: underline;
+    text-decoration: none;
     color: rgba(0, 0, 0, 0.6)
 }
 .logo{
