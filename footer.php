@@ -1,7 +1,7 @@
-<footer class="footer text-center py-2 theme-bg-dark">
+<footer class="footer text-center gradient">
 		   
-           <p class="copyright"><a href="">Mai Theme</a></p>
-          
+    <p>&copy; <span id="copyright-year">2024</span> <span id="site-title">EliteDrive</span> | Powered by <span id="powered-by">MaiTheme</span></p>
+ 
            <?php
 				dynamic_sidebar('footer-1');
 			?>
